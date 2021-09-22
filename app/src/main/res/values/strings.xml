@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">One_time_intro_slider_in_kotlin_android</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_skip">Skip</string>
+    <string name="app_next">Next</string>
+    <string name="app_done">Done</string>
+    <string name="app_line">-</string>
+    <string name="app_dashboard">Dashboard</string>
+</resources>
